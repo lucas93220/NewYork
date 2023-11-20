@@ -7,4 +7,4 @@ document.addEventListener("DOMContentLoaded", e => {
     console.table(Description);
     Tamplate.printF();
     console.log(msg);
-});
+}); 
